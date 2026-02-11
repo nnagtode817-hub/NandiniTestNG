@@ -11,8 +11,8 @@ public class MyClass extends MyBase {
 	
 	@BeforeMethod
 	public void verifyHomePage() {
-		String title = driver.getTitle();
-		System.out.println("page title is: "   +title);
+
+		System.out.println("page title is: ");
 	}
 
     @Test

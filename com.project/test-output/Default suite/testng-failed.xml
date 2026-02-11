@@ -5,15 +5,10 @@
     <classes>
       <class name="Practice090226.MyClass">
         <methods>
-          <include name="beforeSuite"/>
-          <include name="afterSuite"/>
-          <include name="afterTest"/>
-          <include name="beforeMethod"/>
-          <include name="beforeTest"/>
-          <include name="afterMethod"/>
-          <include name="afterClass"/>
-          <include name="f"/>
-          <include name="beforeClass"/>
+          <include name="inputField"/>
+          <include name="verifyHomePage"/>
+          <include name="close"/>
+          <include name="setUp"/>
         </methods>
       </class> <!-- Practice090226.MyClass -->
     </classes>
